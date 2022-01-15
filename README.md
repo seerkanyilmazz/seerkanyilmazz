@@ -5,7 +5,7 @@
 - 🔭 I’m currently working for Cybersoft in Turkey as a Jr. Full Stack Software Engineer.
 - 📫 How to reach me:
 
-  [![linkedin][1.1]][1]      [![instagram][1.2]][2]     [![hackerrank][1.3]][3]
+  [![linkedin][1.1]][1]     [![hackerrank][1.3]][3]
 
   [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   [1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
